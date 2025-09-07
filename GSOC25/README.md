@@ -203,7 +203,7 @@ The output will be published as **RDF triples** and made accessible via a user-f
   - Run DBpedia extraction with the newly generated mappings.
   - Query the resulting RDF data using SPARQL to ensure correctness and completeness.
 
-  You can find the source code and progress in the following GitHub repository: [Amharic DBpedia Template Mapping Automation](https://github.com/contact-andy/Amharic_DBpedia_Template_Mapping_Automation)
+  So far, the first two steps (template retrieval and attribute extraction) have been successfully completed. You can find the source code and progress in the following GitHub repository: [Amharic DBpedia Template Mapping Automation](https://github.com/contact-andy/Amharic_DBpedia_Template_Mapping_Automation)
 
 
   ### 7. Knowledge Graph Construction

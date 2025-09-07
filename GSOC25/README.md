@@ -17,7 +17,7 @@ The output will be published as **RDF triples** and made accessible via a user-f
 - [Ricardo Usbeck](https://www.linkedin.com/in/ricardo-usbeck/?originalSubdomain=de)
 - [Tilahun Abedissa Taffa](https://www.linkedin.com/in/tilahun-abedissa-47372a9a/?originalSubdomain=et)
 - [Hizkiel Alemayehu](https://www.linkedin.com/in/hizkiel-mitiku-alemayehu-97306010b/)
-
+- [Meti Bayissa](https://www.linkedin.com/in/metiadanebayissa/)
 
 ## Key Achievements and Deliverables  
 

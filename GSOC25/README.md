@@ -1,5 +1,3 @@
-###  Towards Amharic DBpedia
-
 # GSoC-25: DBpedia Amharic Chapter  
 
 ## Project Summary  
